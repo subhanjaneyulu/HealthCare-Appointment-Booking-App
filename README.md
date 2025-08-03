@@ -140,9 +140,9 @@ This is a **HealthCare Appointment Booking Application** built using **React.js*
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 [Click here to view the live site](https://healthcareappointmentbookingapp.netlify.app/)  
+ [Click here to view the live site](https://healthcareappointmentbookingapp.netlify.app/)  
 *(Deployed using Netlify)*
 ##Developer Note
 
