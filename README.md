@@ -140,6 +140,10 @@ This is a **HealthCare Appointment Booking Application** built using **React.js*
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live site](https://healthcareappointmentbookingapp.netlify.app/)  
+*(Deployed using Netlify)*
 ##Developer Note
 
 This project was built within the given deadline with real-time experience in mind. While AI tools like **ChatGPT** were used occasionally for styling suggestions or code improvements, the core logic and UI were developed independently. With a bit more time, this can be scaled into a fully functional real-world application.
