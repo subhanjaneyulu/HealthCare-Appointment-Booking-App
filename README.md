@@ -81,7 +81,7 @@ This is a **HealthCare Appointment Booking Application** built using **React.js*
 
 ---
 
-## 🚀 Features Overview
+## Features Overview
 
 - **Landing Page** with background image and animated arrow icon.
   - Arrow icon click cheyagane main home page ki navigate avutundi.
@@ -108,7 +108,7 @@ This is a **HealthCare Appointment Booking Application** built using **React.js*
   - **Remove icon** to delete a particular appointment
   - **Back to Booking** button to go back to home page
 
-- 🔗 **Routing**:
+- **Routing**:
   - All pages are connected using `react-router-dom`
   - Header logo click → Redirects to landing page
   - Header "My Appointments" → Navigates to appointment view page
